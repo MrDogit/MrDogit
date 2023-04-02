@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 I can do anything and nothing all at once
 
 BTW there is my profile frome codewars (abandoned a week or two after registration)
-[![Codewars badge](https://www.codewars.com/users/Nps-rf/badges/large)](https://www.codewars.com/users/MrDogit)
+[![Codewars badge](https://www.codewars.com/users/MrDogit/badges/large)](https://www.codewars.com/users/MrDogit)
