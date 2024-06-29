@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://t.me/mrdogit
+
 I can do anything and nothing all at once
 
-BTW there is my profile from codewars (abandoned a week or two after registration)
 [![Codewars badge](https://www.codewars.com/users/MrDogit/badges/large)](https://www.codewars.com/users/MrDogit)
