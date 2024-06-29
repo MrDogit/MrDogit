@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://t.me/mrdogit
+You can contact me 👇
+FelixMoro.MrDogit@gmail.com
 
-I can do anything and nothing all at once
+or check my contact links here
+👈
 
 [![Codewars badge](https://www.codewars.com/users/MrDogit/badges/large)](https://www.codewars.com/users/MrDogit)
