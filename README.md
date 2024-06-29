@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can contact me 👇
+You can contact me via
 FelixMoro.MrDogit@gmail.com
 
-or check my contact links here
-👈
+👈 or check my contact links
+
+
 
 [![Codewars badge](https://www.codewars.com/users/MrDogit/badges/large)](https://www.codewars.com/users/MrDogit)
